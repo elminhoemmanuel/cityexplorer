@@ -1,0 +1,1 @@
+A weather and tourist attractions finder web app. Used Foursquare and Weather API.
